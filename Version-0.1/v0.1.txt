@@ -1,2 +1,7 @@
 @author Kyle
 @version Create At 11/22/2018
+@features
+ enter to access site
+ combox to select site
+ add button "bookmark"(not complement action)
+ maximized by default(adjusted control size)
