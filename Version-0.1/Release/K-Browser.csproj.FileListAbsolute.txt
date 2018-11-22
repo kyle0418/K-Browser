@@ -1,0 +1,9 @@
+C:\Users\kylew\Desktop\K-Browser\K-Browser\bin\Release\K-Browser.exe.config
+C:\Users\kylew\Desktop\K-Browser\K-Browser\bin\Release\K-Browser.exe
+C:\Users\kylew\Desktop\K-Browser\K-Browser\bin\Release\K-Browser.pdb
+C:\Users\kylew\Desktop\K-Browser\K-Browser\obj\Release\K_Browser.Form1.resources
+C:\Users\kylew\Desktop\K-Browser\K-Browser\obj\Release\K_Browser.Properties.Resources.resources
+C:\Users\kylew\Desktop\K-Browser\K-Browser\obj\Release\K-Browser.csproj.GenerateResource.cache
+C:\Users\kylew\Desktop\K-Browser\K-Browser\obj\Release\K-Browser.csproj.CoreCompileInputs.cache
+C:\Users\kylew\Desktop\K-Browser\K-Browser\obj\Release\K-Browser.exe
+C:\Users\kylew\Desktop\K-Browser\K-Browser\obj\Release\K-Browser.pdb
