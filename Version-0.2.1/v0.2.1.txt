@@ -1,2 +1,11 @@
+// Summary
 Test kernel "WebKit"
+
+// Note
 From this version, the K-Browser's kernel is "WebKit Kernel(Chrome)"
+
+// Operation
+Set Chrome-Kernel WebBrowser Control:
+  1.copy all files in \WebKit.NET-0.5-bin-cairo\bin to /Project/bin/Debug
+  2.add reference "WebKitBrowser.dll" to project
+  3.create a custom C# control bar, copy "WebKitBrowser.dll" into it
