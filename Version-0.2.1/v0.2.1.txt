@@ -1,0 +1,2 @@
+Test kernel "WebKit"
+From this version, the K-Browser's kernel is "WebKit Kernel(Chrome)"
